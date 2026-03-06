@@ -65,10 +65,11 @@
   1. Create .github/workflows/snake.yml
   2. Paste the workflow code to generate the snake
 -->
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/Aryansabasana/Aryansabasana/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+## 🐍 Snake Eating Contributions
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Aryansabasana/Aryansabasana/output/github-contribution-grid-snake.svg" />
+</p>
 
 <br />
 
